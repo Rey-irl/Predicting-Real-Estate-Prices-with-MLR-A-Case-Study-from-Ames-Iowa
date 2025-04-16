@@ -62,7 +62,6 @@ Log(Sale_Price) = -46.06 + 0.0059×Year_Built + 0.0003×Lot_Frontage + 0.0783×O
 
 **Reyna Vargas**  
 National College of Ireland  
-Email: x23127635@student.ncirl.ie
 
 ---
 
